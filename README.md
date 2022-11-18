@@ -1,5 +1,9 @@
 # Disaster_or_not
 
+Twitter has become an important communication channel in times of emergency.
+The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies).
+
+But, it’s not always clear whether a person’s words are actually announcing a disaster.
 
 
 
@@ -45,9 +49,6 @@ test_size was taken as 30%
 The accuracy scores were computed as below
 ![image](https://user-images.githubusercontent.com/26757681/202672101-4f9abfa9-4c0a-42a4-9a58-b8c27cdeee72.png)
 ![image](https://user-images.githubusercontent.com/26757681/202671940-a7eecd19-25ce-449e-b055-afa10c159197.png)
-
-
-
 
 The top three that is  LOG,MNB & SGD were applied on the test dataset and submitted on Kaggle for scores 
 
